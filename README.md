@@ -38,7 +38,7 @@ ggplot(data.frame(range, wss))+
   ylab("Within-cluster sum of squares (WSS)")+
   theme_minimal(base_size = 19)
 ```
-<img src="https://github.com/sulovekoirala/machinelearning_microbiology/blob/main/elbow.svg">
+<img src="https://github.com/sulovekoirala/machinelearning_microbiology/blob/main/Picture3.jpg">
 
 The plot above shows that the elbow point is around K=4. 
 ```R
