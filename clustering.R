@@ -6,7 +6,7 @@ library(reshape2)
 library(ggforce)
 
 # Importing data
-data <- read_csv("data.csv")
+data <- read_csv("https://raw.githubusercontent.com/sulovekoirala/machinelearning_microbiology/main/data.csv")
 
 # Identifying the possible number of clusters
 range <- 1:10
