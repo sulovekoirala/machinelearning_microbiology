@@ -62,6 +62,7 @@ ggplot(new_data)+
   facet_wrap(~variable, scales = "free_x", nrow = 3, ncol = 2)+
   labs(title = "Comparison of environmental variables across k-means clusters based on temperature")
 ```
+<img src="https://github.com/sulovekoirala/machinelearning_microbiology/blob/main/cluster_plot.svg">
 
 # Conclusion 
 In this report, I presented the results of a clustering analysis of microbial samples based on environmental variables using the k-means algorithm. I determined the optimal number of clusters to be 4, and visualized and compared the clusters using different methods. The plots show that the clusters differ in their temperature values, and also in their pH, salinity, and oxygen values. The clusters can be interpreted as different types of samples based on their environmental conditions.
