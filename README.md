@@ -1,5 +1,5 @@
 # Clustering Analysis of Microbial Samples Based on Environmental Variables Using K-Means Algorithm
-<img src="https://github.com/sulovekoirala/machinelearning_microbiology/blob/main/cluster_plot.svg">
+
 
 In this report, I will present the results of a clustering analysis of microbial samples based on environmental variables using the k-means algorithm. The data set consists of four variables: oxygen, pH, salinity, and temperature, measured for 100 samples. The goal of the analysis is to find the optimal number of clusters that group the samples based on their similarity in the environmental variables, and to visualize and compare the clusters. The growth and activity of these microorganisms depend on several environmental factors, such as temperature, pH, salinity, and oxygen level. These factors affect the metabolism, enzyme function, membrane structure, and gene expression of the microorganisms. The data were randomly generated.
 
